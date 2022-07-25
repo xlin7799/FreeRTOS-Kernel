@@ -53,8 +53,8 @@
  * The tskKERNEL_VERSION_MAJOR, tskKERNEL_VERSION_MINOR, tskKERNEL_VERSION_BUILD
  * values will reflect the last released version number.
  */
-#define tskKERNEL_VERSION_NUMBER       "V10.4.4+"
-#define tskKERNEL_VERSION_MAJOR        10
+#define tskKERNEL_VERSION_NUMBER       "V11.4.4"
+#define tskKERNEL_VERSION_MAJOR        11
 #define tskKERNEL_VERSION_MINOR        4
 #define tskKERNEL_VERSION_BUILD        4
 
